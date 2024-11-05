@@ -10,5 +10,5 @@ Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do List
 
 ## 📃 Lizenz
 
-![Material Design Lite](https://getmdl.io/)
-![Material Design Icons](https://
+- ![Material Design Lite](https://getmdl.io/)
+- ![Material Design Icons](https://fonts.google.com/icons)
