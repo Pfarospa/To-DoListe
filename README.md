@@ -12,3 +12,9 @@ Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do List
 
 - ![Material Design Lite](https://getmdl.io/)
 - ![Material Design Icons](https://fonts.google.com/icons)
+
+
+## 👤 Kontakt
+
+- E-Mail: ![hey@pfarospa.de](https://mailto:hey@pfarospa.de)
+- Website: ![https://pfarospa.de](https://pfarospa.de)
