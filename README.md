@@ -17,9 +17,3 @@ Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do List
 ## 👤 Kontakt
 
 - E-Mail: ![hey@pfarospa.de](https://mailto:hey@pfarospa.de)
-- Website: ![https://pfarospa.de](https://pfarospa.de)
-
-
-ht5hj5
-
-Hallo, dies ist ein Test
