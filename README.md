@@ -1,6 +1,6 @@
 # 📝 To-Do Liste
 
-Eine einfache To-Do Liste mit HTML5 und JavaScript. 
+Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do Liste ist nicht mit einer Datenbank veernküpft. Sie läuft Local. 
 
 ## 📷 Screenshots
 
