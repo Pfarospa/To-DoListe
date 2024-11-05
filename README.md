@@ -6,3 +6,9 @@ Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do List
 
 ![Screenshot 1](screenshots/screenshot1.png)
 *Home-Menu der To-Do Liste*
+
+
+## 📃 Lizenz
+
+![Material Design Lite](https://getmdl.io/)
+![
