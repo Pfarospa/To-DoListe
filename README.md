@@ -1,5 +1,5 @@
-# To-Do Liste
+# 📝 To-Do Liste
 
-## Screenshots
+## 📷 Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
