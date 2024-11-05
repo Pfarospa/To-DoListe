@@ -1,4 +1,4 @@
 # To-Do Liste
 
-## Screeshots
+## Screenshots
 
