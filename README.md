@@ -1,6 +1,6 @@
 # 📝 To-Do Liste
 
-Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do Liste ist nicht mit einer Datenbank veernküpft. Sie läuft Local. 
+Eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do Liste läuft Local.
 
 ## 📷 Screenshot
 
@@ -16,4 +16,4 @@ Hier habe ich eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do List
 
 ## 👤 Kontakt
 
-- E-Mail: ![hey@pfarospa.de](https://mailto:hey@pfarospa.de)
+- E-Mail: ![adrian@pfarospa.de](https://mailto:adrian@pfarospa.de)
