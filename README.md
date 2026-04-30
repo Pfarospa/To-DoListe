@@ -16,4 +16,4 @@ Eine einfache To-Do Liste mit HTML5 und JavaScript. Die To-Do Liste läuft Local
 
 ## 👤 Kontakt
 
-- E-Mail: ![adrian@pfarospa.de](https://mailto:adrian@pfarospa.de)
+- E-Mail: ![adrian@onestep-challenger.app](https://mailto:adrian@onestep-challenger.app)
